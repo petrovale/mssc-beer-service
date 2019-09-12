@@ -1,4 +1,4 @@
-package guru.springboot.msscbeerservice.model;
+package guru.springboot.msscbeerservice.web.model;
 
 import java.util.List;
 import org.springframework.data.domain.PageImpl;

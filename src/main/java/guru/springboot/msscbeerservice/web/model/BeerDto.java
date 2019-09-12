@@ -1,4 +1,4 @@
-package guru.springboot.msscbeerservice.model;
+package guru.springboot.msscbeerservice.web.model;
 
 import java.math.BigDecimal;
 import java.time.OffsetDateTime;
