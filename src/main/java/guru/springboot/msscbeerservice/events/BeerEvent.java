@@ -1,6 +1,6 @@
 package guru.springboot.msscbeerservice.events;
 
-import guru.springboot.msscbeerservice.web.model.BeerDto;
+import sfg.brewery.model.BeerDto;
 import java.io.Serializable;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

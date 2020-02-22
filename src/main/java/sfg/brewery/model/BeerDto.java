@@ -1,4 +1,4 @@
-package guru.springboot.msscbeerservice.web.model;
+package sfg.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serializable;
