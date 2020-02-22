@@ -18,8 +18,8 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import com.fasterxml.jackson.databind.ObjectMapper;
 import guru.springboot.msscbeerservice.bootstrap.BeerLoader;
 import guru.springboot.msscbeerservice.services.BeerService;
-import sfg.brewery.model.BeerDto;
-import sfg.brewery.model.BeerStyleEnum;
+import guru.sfg.brewery.model.BeerDto;
+import guru.sfg.brewery.model.BeerStyleEnum;
 import java.math.BigDecimal;
 import java.util.UUID;
 import org.junit.jupiter.api.Test;

@@ -5,7 +5,7 @@ import guru.springboot.msscbeerservice.domain.Beer;
 import guru.springboot.msscbeerservice.events.BrewBeerEvent;
 import guru.springboot.msscbeerservice.events.NewInventoryEvent;
 import guru.springboot.msscbeerservice.repositories.BeerRepository;
-import sfg.brewery.model.BeerDto;
+import guru.sfg.brewery.model.BeerDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;

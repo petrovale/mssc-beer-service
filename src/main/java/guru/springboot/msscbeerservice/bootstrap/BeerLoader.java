@@ -2,7 +2,7 @@ package guru.springboot.msscbeerservice.bootstrap;
 
 import guru.springboot.msscbeerservice.domain.Beer;
 import guru.springboot.msscbeerservice.repositories.BeerRepository;
-import sfg.brewery.model.BeerStyleEnum;
+import guru.sfg.brewery.model.BeerStyleEnum;
 import java.math.BigDecimal;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package sfg.brewery.model;
+package guru.sfg.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serializable;
